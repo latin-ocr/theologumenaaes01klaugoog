@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./theologumenaaes01klaugoog_0014.png"; bbox 0 0 2780 5018; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 263 1851 992 1968">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 263 1851 992 1968">
+     <span class='ocr_line' id='line_1_1' title="bbox 263 1851 992 1968; baseline 0.003 -6"><span class='ocrx_word' id='word_1_1' title='bbox 263 1851 992 1968; x_wconf 84' lang='lat' dir='ltr'><strong>THEOLOGUMENA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 261 2210 1123 2342">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 261 2210 1123 2342">
+     <span class='ocr_line' id='line_1_2' title="bbox 261 2210 1123 2342; baseline 0.005 -26"><span class='ocrx_word' id='word_1_2' title='bbox 261 2210 271 2234; x_wconf 78' lang='lat'><strong><em>⁴</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 328 2235 622 2318; x_wconf 70' lang='lat' dir='ltr'><strong>Assscflffl</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 657 2237 914 2320; x_wconf 67' lang='lat' dir='ltr'><strong>Tamum.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1115 2329 1123 2342; x_wconf 48' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1394 5018">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1394 5018">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1394 5018; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1394 5018; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
